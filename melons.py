@@ -1,3 +1,7 @@
+print("hi")
+
+
+
 """Classes for melon orders."""
 import random, datetime
 
